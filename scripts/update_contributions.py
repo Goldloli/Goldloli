@@ -101,14 +101,16 @@ def build_block(prs: list[dict]) -> str:
             ),
             reverse=True,
         )
-        links = []
+        links, states = [], []
         for pr in items[:MAX_PRS_PER_REPO]:
-            mark = "已合并" if pr.get("pull_request", {}).get("merged_at") else "审核中"
+            merged = bool(pr.get("pull_request", {}).get("merged_at"))
             links.append(
-                f"[#{pr['number']}]({pr['html_url']}) {short_title(pr['title'])} · {mark}"
+                f"[#{pr['number']}]({pr['html_url']}) {short_title(pr['title'])}"
             )
+            states.append("已合并" if merged else "审核中")
         if len(items) > MAX_PRS_PER_REPO:
             links.append(f"等 {len(items)} 个 PR")
+            states.append("…")
         rows.append(
             {
                 "repo": repo,
@@ -116,6 +118,7 @@ def build_block(prs: list[dict]) -> str:
                 "merged": sum(1 for p in items if p.get("pull_request", {}).get("merged_at")),
                 "open": sum(1 for p in items if not p.get("pull_request", {}).get("merged_at")),
                 "cell": "<br>".join(links),
+                "state": "<br>".join(states),
             }
         )
 
@@ -138,13 +141,13 @@ def build_block(prs: list[dict]) -> str:
         START_MARK,
         " · ".join(summary),
         "",
-        "| 项目 | Stars | 我做的 |",
-        "| --- | ---: | --- |",
+        "| 项目 | Stars | 状态 | 我的贡献 |",
+        "| --- | ---: | :---: | --- |",
     ]
     for r in rows:
         lines.append(
             f"| [{r['repo']}](https://github.com/{r['repo']}) | "
-            f"{human_stars(r['stars'])} | {r['cell']} |"
+            f"{human_stars(r['stars'])} | {r['state']} | {r['cell']} |"
         )
     if hidden:
         lines.append("")

@@ -22,20 +22,20 @@
   <sub><b>ASRbox</b> · 音视频转写与 AI 字幕工作台　　·　　<b>YuE2 Studio</b> · 本地音乐生成工作台</sub>
 </p>
 
-其他项目：[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)（让小爱触屏音箱接入 DeepSeek · Go）· [vid2note](https://github.com/Goldloli/vid2note)（视频转 Markdown 笔记）· [ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap)（AI 项目脚手架）
+其他项目：[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)（Go）· [vid2note](https://github.com/Goldloli/vid2note) · [ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap) · [douyu-send-all-glowsticks](https://github.com/Goldloli/douyu-send-all-glowsticks)
 
 ## 开源贡献
 
 <!-- contributions:start -->
 **2** 个已合并 PR · **3** 个审核中 · **5** 个上游项目 · 合计 **66k** stars
 
-| 项目 | Stars | 我做的 |
-| --- | ---: | --- |
-| [doocs/leetcode](https://github.com/doocs/leetcode) | 36.7k | [#6253](https://github.com/doocs/leetcode/pull/6253) feat: add Rust solution for 0031. Next Permut… · 已合并 |
-| [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.2k | [#540](https://github.com/jason5ng32/MyIP/pull/540) Feat(connectivity): expand China country list · 审核中 |
-| [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) | 7.8k | [#8435](https://github.com/Laravel-Lang/lang/pull/8435) [zh_CN]: Added missing translations · 审核中 |
-| [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) | 5.7k | [#987](https://github.com/KaiserY/trpl-zh-cn/pull/987) fix(ch15-06): clarify the translation of "whi… · 审核中 |
-| [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | 3.6k | [#30](https://github.com/Dailin521/codex-provider-sync/pull/30) feat: 新增 macOS Avalonia 桌面端 GUI · 已合并 |
+| 项目 | Stars | 状态 | 我的贡献 |
+| --- | ---: | :---: | --- |
+| [doocs/leetcode](https://github.com/doocs/leetcode) | 36.7k | 已合并 | [#6253](https://github.com/doocs/leetcode/pull/6253) feat: add Rust solution for 0031. Next Permut… |
+| [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.2k | 审核中 | [#540](https://github.com/jason5ng32/MyIP/pull/540) Feat(connectivity): expand China country list |
+| [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) | 7.8k | 审核中 | [#8435](https://github.com/Laravel-Lang/lang/pull/8435) [zh_CN]: Added missing translations |
+| [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) | 5.7k | 审核中 | [#987](https://github.com/KaiserY/trpl-zh-cn/pull/987) fix(ch15-06): clarify the translation of "whi… |
+| [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | 3.6k | 已合并 | [#30](https://github.com/Dailin521/codex-provider-sync/pull/30) feat: 新增 macOS Avalonia 桌面端 GUI |
 
 <sub>数据自动更新于 2026-10-29（UTC）</sub>
 <!-- contributions:end -->
