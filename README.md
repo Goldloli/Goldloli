@@ -23,12 +23,14 @@
 ## 开源贡献
 
 <!-- contributions:start -->
-**2** 个已合并 PR · **2** 个上游项目 · 合计 **40.4k** stars
+**4** 个已合并 PR · **4** 个上游项目 · 合计 **55.8k** stars
 
 | 项目 | Stars |
 | --- | ---: |
 | [doocs/leetcode](https://github.com/doocs/leetcode) | 36.7k |
+| [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.2k |
 | [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | 3.6k |
+| [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) | 3.2k |
 <!-- contributions:end -->
 
 ## 技术栈
