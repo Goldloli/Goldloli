@@ -13,38 +13,24 @@
 
 ## 精选作品
 
-<p align="center">
-  <a href="https://github.com/Goldloli/asrbox"><img width="48.5%" src="./assets/asrbox-home.webp" alt="ASRbox — 本地优先的音视频转写与 AI 字幕工作台"></a>
-  <a href="https://github.com/Goldloli/YuE2-with-llm"><img width="48.5%" src="./assets/yue2-library.webp" alt="YuE2 Studio — 本地音乐生成工作台"></a>
-</p>
+**[ASRbox](https://github.com/Goldloli/asrbox)** — 本地优先的音视频转写与 AI 字幕工作台：25 个本地 ASR 模型，macOS / Windows / Docker 三端，字幕版本历史与 LLM 核对。`Python` `Tauri 2` `React` `MIT`
 
-<p align="center">
-  <sub><b>ASRbox</b> · 音视频转写与 AI 字幕工作台　　·　　<b>YuE2 Studio</b> · 本地音乐生成工作台</sub>
-</p>
+**[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)** — 让老款小爱触屏音箱接入 DeepSeek：不刷固件、改 ramdisk 拿 root，保留原生天气与米家控制。`Go` `Android`
 
-其他项目：[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)（Go）· [vid2note](https://github.com/Goldloli/vid2note) · [ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap) · [douyu-send-all-glowsticks](https://github.com/Goldloli/douyu-send-all-glowsticks)
+**[vid2note](https://github.com/Goldloli/vid2note)** — 视频转 Markdown 笔记与思维导图：Pipeline DAG + ASR + LLM。`Python` `FastAPI` `Vue`
+
+**[ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap)** — 可持续 AI 协作项目的分阶段脚手架：MVP 先行，Spec / Harness / ADR 后置。`Python`
 
 ## 开源贡献
 
 <!-- contributions:start -->
-**2** 个已合并 PR · **3** 个审核中 · **5** 个上游项目 · 合计 **66k** stars
+**2** 个已合并 PR · **2** 个上游项目 · 合计 **40.4k** stars
 
-| 项目 | Stars | 状态 | 我的贡献 |
-| --- | ---: | :---: | --- |
-| [doocs/leetcode](https://github.com/doocs/leetcode) | 36.7k | 已合并 | [#6253](https://github.com/doocs/leetcode/pull/6253) feat: add Rust solution for 0031. Next Permut… |
-| [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.2k | 审核中 | [#540](https://github.com/jason5ng32/MyIP/pull/540) Feat(connectivity): expand China country list |
-| [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) | 7.8k | 审核中 | [#8435](https://github.com/Laravel-Lang/lang/pull/8435) [zh_CN]: Added missing translations |
-| [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) | 5.7k | 审核中 | [#987](https://github.com/KaiserY/trpl-zh-cn/pull/987) fix(ch15-06): clarify the translation of "whi… |
-| [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | 3.6k | 已合并 | [#30](https://github.com/Dailin521/codex-provider-sync/pull/30) feat: 新增 macOS Avalonia 桌面端 GUI |
-
-<sub>数据自动更新于 2026-10-29（UTC）</sub>
+| 项目 | Stars |
+| --- | ---: |
+| [doocs/leetcode](https://github.com/doocs/leetcode) | 36.7k |
+| [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | 3.6k |
 <!-- contributions:end -->
-
-## 我怎样提 PR
-
-- **先读规则**：`CONTRIBUTING`、PR 模板、AI 使用政策、CLA / DCO——确认这条路是允许的再动手。
-- **先跑通再开口**：本地测试、构建或渲染验证通过才提 PR；不做「看起来改了」的改动。
-- **小步可回滚**：一个 PR 只做一件事，带上复现步骤；配合作者 review，不催合并。
 
 ## 技术栈
 
@@ -52,4 +38,4 @@
 
 ---
 
-<sub>贡献表由 GitHub Actions 每天自动更新 · <a href="https://github.com/search?q=is%3Apr+author%3AGoldloli&type=pullrequests">查看全部 PR</a></sub>
+<sub>贡献表由 GitHub Actions 每天自动更新 · <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AGoldloli&type=pullrequests">查看全部已合并 PR</a></sub>
