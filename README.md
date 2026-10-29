@@ -8,18 +8,17 @@
 
 <p align="center">
   <b>把大模型塞进本地设备里。</b><br>
-  <sub>本地优先（local-first）的 AI 工具作者 · 也在给开源项目提小而真实的 PR</sub>
+  <sub>本地优先（local-first）的 AI 工具作者 · 也会给开源项目提些小 PR</sub>
 </p>
 
-## 精选作品
+## 开源仓库
 
-**[ASRbox](https://github.com/Goldloli/asrbox)** — 本地优先的音视频转写与 AI 字幕工作台：25 个本地 ASR 模型，macOS / Windows / Docker 三端，字幕版本历史与 LLM 核对。`Python` `Tauri 2` `React` `MIT`
+几个自己维护的仓库，都还在慢慢做，欢迎试用和提 issue：
 
-**[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)** — 让老款小爱触屏音箱接入 DeepSeek：不刷固件、改 ramdisk 拿 root，保留原生天气与米家控制。`Go` `Android`
-
-**[vid2note](https://github.com/Goldloli/vid2note)** — 视频转 Markdown 笔记与思维导图：Pipeline DAG + ASR + LLM。`Python` `FastAPI` `Vue`
-
-**[ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap)** — 可持续 AI 协作项目的分阶段脚手架：MVP 先行，Spec / Harness / ADR 后置。`Python`
+- **[ASRbox](https://github.com/Goldloli/asrbox)** — 音视频转写与 AI 字幕工作台，支持 25 个本地 ASR 模型，macOS / Windows / Docker 都能跑。
+- **[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)** — 在小爱触屏音箱上接入 DeepSeek 的一次尝试，保留了原生语音和米家控制。
+- **[vid2note](https://github.com/Goldloli/vid2note)** — 把视频转成 Markdown 笔记和思维导图的小工具。
+- **[ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap)** — 给 AI 辅助开发用的分阶段脚手架，还在早期。
 
 ## 开源贡献
 
