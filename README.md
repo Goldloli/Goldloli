@@ -23,14 +23,16 @@
 ## 开源贡献
 
 <!-- contributions:start -->
-**4** 个已合并 PR · **4** 个上游项目 · 合计 **55.8k** stars
+**6** 个已合并 PR · **6** 个上游项目 · 合计 **64.1k** stars
 
 | 项目 | Stars |
 | --- | ---: |
 | [doocs/leetcode](https://github.com/doocs/leetcode) | 36.7k |
-| [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.2k |
+| [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.3k |
+| [supercollider/supercollider](https://github.com/supercollider/supercollider) | 6.8k |
 | [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | 3.6k |
 | [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) | 3.2k |
+| [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji) | 1.5k |
 <!-- contributions:end -->
 
 ## 技术栈
