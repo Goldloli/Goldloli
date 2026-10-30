@@ -22,7 +22,7 @@ README = os.environ.get("README_PATH", "README.md")
 START_MARK = "<!-- contributions:start -->"
 END_MARK = "<!-- contributions:end -->"
 MAX_ROWS = 12
-PAIRS_PER_ROW = 2  # 项目/Stars 成对并排，表格向右侧铺开
+PAIRS_PER_ROW = 3  # 项目/Stars 成对并排，尽量向右侧铺开
 
 
 def api(url: str) -> dict | list:
@@ -88,9 +88,8 @@ def build_block(prs: list[dict]) -> str:
         f"**{total_merged}** 个已合并 PR · **{len(rows)}** 个上游项目 · "
         f"合计 **{human_stars(total_stars)}** stars",
         "",
-        '<table width="100%">',
-        '  <tr><th width="34%" align="left">项目</th><th width="16%" align="right">Stars</th>'
-        '<th width="34%" align="left">项目</th><th width="16%" align="right">Stars</th></tr>',
+        '<table>',
+        "  <tr>" + '<th align="left">项目</th><th align="right">Stars</th>' * PAIRS_PER_ROW + "</tr>",
     ]
     for i in range(0, len(shown), PAIRS_PER_ROW):
         cells = []

@@ -25,12 +25,11 @@
 <!-- contributions:start -->
 **7** 个已合并 PR · **7** 个上游项目 · 合计 **69.7k** stars
 
-<table width="100%">
-  <tr><th width="34%" align="left">项目</th><th width="16%" align="right">Stars</th><th width="34%" align="left">项目</th><th width="16%" align="right">Stars</th></tr>
-  <tr><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td></tr>
-  <tr><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td><td><a href="https://github.com/KaiserY/trpl-zh-cn">KaiserY/trpl-zh-cn</a></td><td align="right">5.7k</td></tr>
-  <tr><td><a href="https://github.com/Dailin521/codex-provider-sync">Dailin521/codex-provider-sync</a></td><td align="right">3.6k</td><td><a href="https://github.com/hybridsjs/hybrids">hybridsjs/hybrids</a></td><td align="right">3.2k</td></tr>
-  <tr><td><a href="https://github.com/kizuna-ai-lab/sokuji">kizuna-ai-lab/sokuji</a></td><td align="right">1.5k</td><td></td><td></td></tr>
+<table>
+  <tr><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th></tr>
+  <tr><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td></tr>
+  <tr><td><a href="https://github.com/KaiserY/trpl-zh-cn">KaiserY/trpl-zh-cn</a></td><td align="right">5.7k</td><td><a href="https://github.com/Dailin521/codex-provider-sync">Dailin521/codex-provider-sync</a></td><td align="right">3.6k</td><td><a href="https://github.com/hybridsjs/hybrids">hybridsjs/hybrids</a></td><td align="right">3.2k</td></tr>
+  <tr><td><a href="https://github.com/kizuna-ai-lab/sokuji">kizuna-ai-lab/sokuji</a></td><td align="right">1.5k</td><td></td><td></td><td></td><td></td></tr>
 </table>
 <!-- contributions:end -->
 
