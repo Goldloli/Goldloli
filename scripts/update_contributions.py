@@ -22,6 +22,7 @@ README = os.environ.get("README_PATH", "README.md")
 START_MARK = "<!-- contributions:start -->"
 END_MARK = "<!-- contributions:end -->"
 MAX_ROWS = 12
+PAIRS_PER_ROW = 2  # 项目/Stars 成对并排，表格向右侧铺开
 
 
 def api(url: str) -> dict | list:
@@ -87,13 +88,21 @@ def build_block(prs: list[dict]) -> str:
         f"**{total_merged}** 个已合并 PR · **{len(rows)}** 个上游项目 · "
         f"合计 **{human_stars(total_stars)}** stars",
         "",
-        "| 项目 | Stars |",
-        "| --- | ---: |",
+        '<table width="100%">',
+        '  <tr><th width="34%" align="left">项目</th><th width="16%" align="right">Stars</th>'
+        '<th width="34%" align="left">项目</th><th width="16%" align="right">Stars</th></tr>',
     ]
-    for r in shown:
-        lines.append(
-            f"| [{r['repo']}](https://github.com/{r['repo']}) | {human_stars(r['stars'])} |"
-        )
+    for i in range(0, len(shown), PAIRS_PER_ROW):
+        cells = []
+        for r in shown[i : i + PAIRS_PER_ROW]:
+            cells.append(
+                f'<td><a href="https://github.com/{r["repo"]}">{r["repo"]}</a></td>'
+                f'<td align="right">{human_stars(r["stars"])}</td>'
+            )
+        while len(cells) < PAIRS_PER_ROW:
+            cells.append("<td></td><td></td>")
+        lines.append("  <tr>" + "".join(cells) + "</tr>")
+    lines.append("</table>")
     if hidden:
         lines.append("")
         lines.append(f"<sub>另有 {hidden} 个贡献较少的项目未列出。</sub>")
