@@ -23,13 +23,14 @@
 ## 开源贡献
 
 <!-- contributions:start -->
-**9** 个已合并 PR · **9** 个上游项目 · 合计 **76.1k** stars
+**10** 个已合并 PR · **10** 个上游项目 · 合计 **101.2k** stars
 
 <table>
   <tr><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th></tr>
-  <tr><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td></tr>
-  <tr><td><a href="https://github.com/KaiserY/trpl-zh-cn">KaiserY/trpl-zh-cn</a></td><td align="right">5.7k</td><td><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo/django-DefectDojo</a></td><td align="right">5.2k</td><td><a href="https://github.com/Dailin521/codex-provider-sync">Dailin521/codex-provider-sync</a></td><td align="right">3.6k</td></tr>
-  <tr><td><a href="https://github.com/hybridsjs/hybrids">hybridsjs/hybrids</a></td><td align="right">3.2k</td><td><a href="https://github.com/kizuna-ai-lab/sokuji">kizuna-ai-lab/sokuji</a></td><td align="right">1.5k</td><td><a href="https://github.com/blixvip/NullMotion">blixvip/NullMotion</a></td><td align="right">1.2k</td></tr>
+  <tr><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25k</td><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td></tr>
+  <tr><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td><td><a href="https://github.com/KaiserY/trpl-zh-cn">KaiserY/trpl-zh-cn</a></td><td align="right">5.7k</td><td><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo/django-DefectDojo</a></td><td align="right">5.2k</td></tr>
+  <tr><td><a href="https://github.com/Dailin521/codex-provider-sync">Dailin521/codex-provider-sync</a></td><td align="right">3.6k</td><td><a href="https://github.com/hybridsjs/hybrids">hybridsjs/hybrids</a></td><td align="right">3.2k</td><td><a href="https://github.com/kizuna-ai-lab/sokuji">kizuna-ai-lab/sokuji</a></td><td align="right">1.5k</td></tr>
+  <tr><td><a href="https://github.com/blixvip/NullMotion">blixvip/NullMotion</a></td><td align="right">1.2k</td><td></td><td></td><td></td><td></td></tr>
 </table>
 <!-- contributions:end -->
 
