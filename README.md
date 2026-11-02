@@ -24,15 +24,16 @@
 ## 开源贡献
 
 <!-- contributions:start -->
-**15** 个已合并 PR · **15** 个上游项目 · 合计 **194k** stars
+**17** 个已合并 PR · **17** 个上游项目 · 合计 **210.6k** stars
 
 <table>
   <tr><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th></tr>
-  <tr><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">79.4k</td><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25k</td></tr>
-  <tr><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td><td><a href="https://github.com/Laravel-Lang/lang">Laravel-Lang/lang</a></td><td align="right">7.8k</td><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td></tr>
-  <tr><td><a href="https://github.com/KaiserY/trpl-zh-cn">KaiserY/trpl-zh-cn</a></td><td align="right">5.7k</td><td><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo/django-DefectDojo</a></td><td align="right">5.2k</td><td><a href="https://github.com/Dailin521/codex-provider-sync">Dailin521/codex-provider-sync</a></td><td align="right">3.6k</td></tr>
-  <tr><td><a href="https://github.com/hybridsjs/hybrids">hybridsjs/hybrids</a></td><td align="right">3.2k</td><td><a href="https://github.com/docmd-io/docmd">docmd-io/docmd</a></td><td align="right">2.5k</td><td><a href="https://github.com/amd/gaia">amd/gaia</a></td><td align="right">1.6k</td></tr>
-  <tr><td><a href="https://github.com/kizuna-ai-lab/sokuji">kizuna-ai-lab/sokuji</a></td><td align="right">1.5k</td><td><a href="https://github.com/pipe-cd/pipecd">pipe-cd/pipecd</a></td><td align="right">1.4k</td><td><a href="https://github.com/blixvip/NullMotion">blixvip/NullMotion</a></td><td align="right">1.3k</td></tr>
+  <tr><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">79.6k</td><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25k</td></tr>
+  <tr><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td><td><a href="https://github.com/kornia/kornia">kornia/kornia</a></td><td align="right">12.1k</td><td><a href="https://github.com/Laravel-Lang/lang">Laravel-Lang/lang</a></td><td align="right">7.8k</td></tr>
+  <tr><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td><td><a href="https://github.com/KaiserY/trpl-zh-cn">KaiserY/trpl-zh-cn</a></td><td align="right">5.7k</td><td><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo/django-DefectDojo</a></td><td align="right">5.2k</td></tr>
+  <tr><td><a href="https://github.com/collabora/WhisperLive">collabora/WhisperLive</a></td><td align="right">4.3k</td><td><a href="https://github.com/Dailin521/codex-provider-sync">Dailin521/codex-provider-sync</a></td><td align="right">3.6k</td><td><a href="https://github.com/hybridsjs/hybrids">hybridsjs/hybrids</a></td><td align="right">3.2k</td></tr>
+  <tr><td><a href="https://github.com/docmd-io/docmd">docmd-io/docmd</a></td><td align="right">2.5k</td><td><a href="https://github.com/amd/gaia">amd/gaia</a></td><td align="right">1.6k</td><td><a href="https://github.com/kizuna-ai-lab/sokuji">kizuna-ai-lab/sokuji</a></td><td align="right">1.5k</td></tr>
+  <tr><td><a href="https://github.com/pipe-cd/pipecd">pipe-cd/pipecd</a></td><td align="right">1.4k</td><td><a href="https://github.com/blixvip/NullMotion">blixvip/NullMotion</a></td><td align="right">1.3k</td><td></td><td></td></tr>
 </table>
 <!-- contributions:end -->
 
