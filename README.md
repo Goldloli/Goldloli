@@ -24,11 +24,11 @@
 ## 开源贡献
 
 <!-- contributions:start -->
-**15** 个已合并 PR · **15** 个上游项目 · 合计 **193.9k** stars
+**15** 个已合并 PR · **15** 个上游项目 · 合计 **194k** stars
 
 <table>
   <tr><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th></tr>
-  <tr><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">79.3k</td><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25k</td></tr>
+  <tr><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">79.4k</td><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.7k</td><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25k</td></tr>
   <tr><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td><td><a href="https://github.com/Laravel-Lang/lang">Laravel-Lang/lang</a></td><td align="right">7.8k</td><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td></tr>
   <tr><td><a href="https://github.com/KaiserY/trpl-zh-cn">KaiserY/trpl-zh-cn</a></td><td align="right">5.7k</td><td><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo/django-DefectDojo</a></td><td align="right">5.2k</td><td><a href="https://github.com/Dailin521/codex-provider-sync">Dailin521/codex-provider-sync</a></td><td align="right">3.6k</td></tr>
   <tr><td><a href="https://github.com/hybridsjs/hybrids">hybridsjs/hybrids</a></td><td align="right">3.2k</td><td><a href="https://github.com/docmd-io/docmd">docmd-io/docmd</a></td><td align="right">2.5k</td><td><a href="https://github.com/amd/gaia">amd/gaia</a></td><td align="right">1.6k</td></tr>
