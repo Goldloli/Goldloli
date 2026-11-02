@@ -21,7 +21,6 @@ TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN") or ""
 README = os.environ.get("README_PATH", "README.md")
 START_MARK = "<!-- contributions:start -->"
 END_MARK = "<!-- contributions:end -->"
-MAX_ROWS = 12
 PAIRS_PER_ROW = 3  # 项目/Stars 成对并排，尽量向右侧铺开
 
 
@@ -77,8 +76,7 @@ def build_block(prs: list[dict]) -> str:
         rows.append({"repo": repo, "stars": stars, "n": count})
 
     rows.sort(key=lambda r: (-r["stars"], r["repo"].lower()))
-    hidden = max(0, len(rows) - MAX_ROWS)
-    shown = rows[:MAX_ROWS]
+    shown = rows  # no cap: the table keeps growing as contributions accumulate
 
     total_merged = sum(r["n"] for r in rows)
     total_stars = sum(r["stars"] for r in rows)
@@ -102,9 +100,6 @@ def build_block(prs: list[dict]) -> str:
             cells.append("<td></td><td></td>")
         lines.append("  <tr>" + "".join(cells) + "</tr>")
     lines.append("</table>")
-    if hidden:
-        lines.append("")
-        lines.append(f"<sub>另有 {hidden} 个贡献较少的项目未列出。</sub>")
     lines.append(END_MARK)
     return "\n".join(lines)
 
