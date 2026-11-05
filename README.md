@@ -17,6 +17,7 @@
 
 - **[ASRbox](https://github.com/Goldloli/asrbox)** — 音视频转写与 AI 字幕工作台，支持 25 个本地 ASR 模型，macOS / Windows / Docker 都能跑。
 - **[bilidown](https://github.com/Goldloli/bilidown)** — B 站视频、番剧、课程和音频下载工具，提供 macOS 与 Windows 桌面客户端。
+- **[image-studio](https://github.com/Goldloli/image-studio)** — 本地优先的 AI 图像工作台：文生图、按指令改图、去背景和 4 倍放大，提供 macOS 与 Windows 桌面客户端。
 - **[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)** — 在小爱触屏音箱上接入 DeepSeek 的成功尝试，老设备AI时代起死回生，保留了原生语音和米家控制。
 - **[vid2note](https://github.com/Goldloli/vid2note)** — 把视频转成 Markdown 笔记和思维导图的工具。
 - **[ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap)** — 给 AI 辅助开发用的分阶段脚手架，以前有用，现在模型能力强了没啥用。
