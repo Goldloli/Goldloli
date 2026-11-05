@@ -32,8 +32,6 @@
 
 ## 开源贡献 · Contributing
 
-每个仓库一句话说清改了什么 · *One line per repo on what I changed:*
-
 - **[Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync)** [![GitHub stars](https://img.shields.io/github/stars/Dailin521/codex-provider-sync?style=flat&color=gold)](https://github.com/Dailin521/codex-provider-sync) — 新增 macOS Avalonia 桌面端 GUI：在 Codex 里切换模型接入不再丢失会话记录——我的第一个 PR。 *macOS Avalonia desktop GUI, so switching model providers in Codex no longer loses your chat history — my first PR.*
 - **[collabora/WhisperLive](https://github.com/collabora/WhisperLive)** [![GitHub stars](https://img.shields.io/github/stars/collabora/WhisperLive?style=flat&color=gold)](https://github.com/collabora/WhisperLive) — 实时音频流水的会话内重置：reset 标志与在途转写的竞态、锁内帧缓冲换入、TensorRT 后端对齐（三轮维护者 review 修出真实死锁）。 *Race-free in-session transcript reset for live streaming — buffered frame swap under lock, ack propagation, and TensorRT backend parity.*
 - **[kornia/kornia](https://github.com/kornia/kornia)** [![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=flat&color=gold)](https://github.com/kornia/kornia) — LightGlue 匹配的张量维度修复：(1, N, D) 描述子不再被早退条件误判而静默返回 0 匹配。 *LightGlue matcher dimension fix — (1, N, D) descriptors no longer hit the early-exit check and silently return zero matches.*
@@ -46,7 +44,7 @@
 - **[docmd-io/docmd](https://github.com/docmd-io/docmd)** [![GitHub stars](https://img.shields.io/github/stars/docmd-io/docmd?style=flat&color=gold)](https://github.com/docmd-io/docmd) — 搜索索引从 /vX.Y.Z/ 版本式 base 路径加载：补上源码注释声称但缺失的绝对 site root 分支。 *Search index loading from versioned base paths like /vX.Y.Z/, via the build-injected absolute site root the code claimed but never used.*
 - **[progit/progit2-zh](https://github.com/progit/progit2-zh)** [![GitHub stars](https://img.shields.io/github/stars/progit/progit2-zh?style=flat&color=gold)](https://github.com/progit/progit2-zh) — 《Pro Git》中文版全书 24 处「派生」统一为「分叉」，逐条对照英文原版并写进译者术语表。 *Unified the translation of "fork" from 派生 to 分叉 across 24 occurrences — each verified against the English source — plus a glossary entry.*
 <details>
-<summary>📊 全部已合并仓库 · All merged repos（每日自动更新 · auto-updated）</summary>
+<summary>📊 全部已合并仓库 · All merged repos</summary>
 
 <!-- contributions:start -->
 **28** 个已合并 PR · **28** 个上游项目 · 合计 **283.2k** stars
@@ -71,8 +69,3 @@
 ## 技术栈 · Tech Stack
 
 `Go` · `Rust` · `Python` · `TypeScript` · `C# / Avalonia` · `Tauri` · `FastAPI` · `Docker` · `SQLite` · `MLX` · `CUDA`
-
----
-
-<sub>贡献表由 GitHub Actions 每日自动更新 · Contributions table auto-updated by GitHub Actions ·
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AGoldloli&type=pullrequests">查看全部已合并 PR · all merged PRs</a></sub>
