@@ -8,21 +8,48 @@
 
 <p align="center">
   <b>把大模型塞进本地设备里。</b><br>
-  <sub>本地优先（local-first）的 AI 工具作者 · 也会给开源项目提些小 PR</sub>
+  <i>Putting large models onto local devices.</i><br>
+  <sub>本地优先的 AI 工具作者 · 开源项目 PR 贡献者（翻译与本地化 / AI 工具链 / 基础设施）<br>
+  Local-first AI tooling author · PR contributor across open-source repos (translation &amp; localization · AI tooling · infra)</sub>
 </p>
 
-## 开源仓库
+## 开源仓库 · Open Source Repositories
 
-几个自己维护的仓库，都还在慢慢做，欢迎试用和提 issue：
+几个自己维护的仓库，都还在慢慢做，欢迎试用和提 issue · *Repos I maintain — still evolving, issues welcome:*
 
 - **[ASRbox](https://github.com/Goldloli/asrbox)** — 音视频转写与 AI 字幕工作台，支持 25 个本地 ASR 模型，macOS / Windows / Docker 都能跑。
+  <i>Audio/video transcription and AI-subtitle workbench with 25 local ASR models — runs on macOS, Windows, and Docker.</i>
 - **[bilidown](https://github.com/Goldloli/bilidown)** — B 站视频、番剧、课程和音频下载工具，提供 macOS 与 Windows 桌面客户端。
+  <i>Bilibili videos, anime, courses, and audio downloader, with macOS and Windows desktop clients.</i>
 - **[image-studio](https://github.com/Goldloli/image-studio)** — 本地优先的 AI 图像工作台：文生图、按指令改图、去背景和 4 倍放大，提供 macOS 与 Windows 桌面客户端。
-- **[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)** — 在小爱触屏音箱上接入 DeepSeek 的成功尝试，老设备AI时代起死回生，保留了原生语音和米家控制。
+  <i>Local-first AI image workbench — text-to-image, instruction-based editing, background removal, and 4× upscaling, with desktop clients.</i>
+- **[XiaoSeek LX04](https://github.com/Goldloli/xiaoai-deepseek-lx04)** — 在小爱触屏音箱上接入 DeepSeek 的成功尝试，老设备 AI 时代起死回生，保留了原生语音和米家控制。
+  <i>DeepSeek on the Xiaoai touchscreen speaker — an old device revived for the AI era, with native voice and Mijia control intact.</i>
 - **[vid2note](https://github.com/Goldloli/vid2note)** — 把视频转成 Markdown 笔记和思维导图的工具。
+  <i>Turns videos into Markdown notes and mind maps.</i>
 - **[ai-sdd-bootstrap](https://github.com/Goldloli/ai-sdd-bootstrap)** — 给 AI 辅助开发用的分阶段脚手架，以前有用，现在模型能力强了没啥用。
+  <i>Staged scaffolding for AI-assisted development — useful once, less needed as models got stronger.</i>
 
-## 开源贡献
+## 开源贡献 · Contributing
+
+每个仓库一句话说清改了什么 · *One line per repo on what I changed:*
+
+- **[Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync)** [![GitHub stars](https://img.shields.io/github/stars/Dailin521/codex-provider-sync?style=flat&color=gold)](https://github.com/Dailin521/codex-provider-sync) — 新增 macOS Avalonia 桌面端 GUI：在 Codex 里切换模型接入不再丢失会话记录——我的第一个 PR。 *macOS Avalonia desktop GUI, so switching model providers in Codex no longer loses your chat history — my first PR.*
+- **[progit/progit2-zh](https://github.com/progit/progit2-zh)** [![GitHub stars](https://img.shields.io/github/stars/progit/progit2-zh?style=flat&color=gold)](https://github.com/progit/progit2-zh) — 《Pro Git》中文版全书 24 处「派生」统一为「分叉」，并写进译者术语表。 *Unified the translation of "fork" from 派生 to 分叉 across 24 occurrences, plus a glossary entry.*
+- **[mdn/translated-content](https://github.com/mdn/translated-content)** [![GitHub stars](https://img.shields.io/github/stars/mdn/translated-content?style=flat&color=gold)](https://github.com/mdn/translated-content) — MDN 中文站 Element 系列 9 个属性页的翻译与英文同步（aria* 属性一族）。 *Nine Element property pages translated or synced to current English for zh-cn.*
+- **[jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)** [![GitHub stars](https://img.shields.io/github/stars/jason5ng32/MyIP?style=flat&color=gold)](https://github.com/jason5ng32/MyIP) — 中国连通性检测清单 12→19 站，另加中国跟踪栈探针列表。 *China connectivity list expanded from 12 to 19 sites, plus Chinese tracking stacks for the adblock test.*
+- **[DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=flat&color=gold)](https://github.com/DefectDojo/django-DefectDojo) — Qualys 扫描报告解析器遇缺词条 QID 时跳过并告警，不再整份导入崩溃。 *Skip Qualys XML findings whose QID has no glossary entry, instead of crashing the whole import.*
+- **[collabora/WhisperLive](https://github.com/collabora/WhisperLive)** [![GitHub stars](https://img.shields.io/github/stars/collabora/WhisperLive?style=flat&color=gold)](https://github.com/collabora/WhisperLive) — 实时语音转写的 WebSocket 会话内重置（ack 传播 + TensorRT 后端对齐）。 *In-session WebSocket transcript reset, with ack propagation and TensorRT backend parity.*
+- **[version-fox/vfox](https://github.com/version-fox/vfox)** [![GitHub stars](https://img.shields.io/github/stars/version-fox/vfox?style=flat&color=gold)](https://github.com/version-fox/vfox) — 下载器任何非 200 状态即失败并报状态，5 处 URL 凭证脱敏。 *Download failures on any non-200 HTTP status, with URL credentials redacted across five download paths.*
+- **[kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji)** [![GitHub stars](https://img.shields.io/github/stars/kizuna-ai-lab/sokuji?style=flat&color=gold)](https://github.com/kizuna-ai-lab/sokuji) — 模型导入对话框支持 hf-mirror.com 下载源（国内网络可直连）。 *hf-mirror.com as a model-import download source, so users in mainland China can pull models directly.*
+- **[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)** [![GitHub stars](https://img.shields.io/github/stars/fishjar/kiss-translator?style=flat&color=gold)](https://github.com/fishjar/kiss-translator) — 划词翻译悬停触发延时（可配置、提前移开即取消、七语界面）。 *Configurable hover delay for selection translation, with i18n in seven languages.*
+- **[nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator)** [![GitHub stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator?style=flat&color=gold)](https://github.com/nextai-translator/nextai-translator) — 新版 Claude 模型拒收 temperature / thinking budget 导致的启动 400 修复。 *Startup 400 fix for current Claude models that reject temperature and thinking budgets.*
+- **[kornia/kornia](https://github.com/kornia/kornia)** [![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=flat&color=gold)](https://github.com/kornia/kornia) — LightGlue 匹配修 batch-of-one 描述子静默返回 0 匹配的问题。 *LightGlue matching fixed for (1, N, D) descriptors that silently returned zero matches.*
+- **[supercollider/supercollider](https://github.com/supercollider/supercollider)** [![GitHub stars](https://img.shields.io/github/stars/supercollider/supercollider?style=flat&color=gold)](https://github.com/supercollider/supercollider) — Linux 安装文档从 wiki 收编进仓库（发行版包现状逐一核实）。 *Linux installation docs consolidated from the wiki, with distribution package versions verified.*
+- **[doocs/leetcode](https://github.com/doocs/leetcode)** [![GitHub stars](https://img.shields.io/github/stars/doocs/leetcode?style=flat&color=gold)](https://github.com/doocs/leetcode) — 0031. Next Permutation 的 Rust 题解（中英双语 tab）。 *Rust solution for 0031. Next Permutation, with bilingual README tabs.*
+
+<details>
+<summary>📊 全部已合并仓库 · All merged repos（每日自动更新 · auto-updated）</summary>
 
 <!-- contributions:start -->
 **28** 个已合并 PR · **28** 个上游项目 · 合计 **283.2k** stars
@@ -42,10 +69,13 @@
 </table>
 <!-- contributions:end -->
 
-## 技术栈
+</details>
+
+## 技术栈 · Tech Stack
 
 `Go` · `Rust` · `Python` · `TypeScript` · `C# / Avalonia` · `Tauri` · `FastAPI` · `Docker` · `SQLite` · `MLX` · `CUDA`
 
 ---
 
-<sub>贡献表由 GitHub Actions 每天自动更新 · <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AGoldloli&type=pullrequests">查看全部已合并 PR</a></sub>
+<sub>贡献表由 GitHub Actions 每日自动更新 · Contributions table auto-updated by GitHub Actions ·
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AGoldloli&type=pullrequests">查看全部已合并 PR · all merged PRs</a></sub>
