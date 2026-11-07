@@ -53,7 +53,7 @@
 <summary>📊 全部已合并仓库 · All merged repos</summary>
 
 <!-- contributions:start -->
-**43** 个已合并 PR · **42** 个上游项目 · 合计 **438.1k** stars
+**43** 个已合并 PR · **42** 个上游项目 · 合计 **438.2k** stars
 
 <table>
   <tr><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th></tr>
