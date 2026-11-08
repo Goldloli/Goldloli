@@ -59,12 +59,13 @@
 <summary>📊 全部已合并仓库 · All merged repos</summary>
 
 <!-- contributions:start -->
-**43** 个已合并 PR · **42** 个上游项目 · 合计 **449.3k** stars
+**46** 个已合并 PR · **45** 个上游项目 · 合计 **556.9k** stars
 
 <table>
   <tr><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th></tr>
-  <tr><td><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></td><td align="right">81.2k</td><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">81k</td><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.8k</td></tr>
-  <tr><td><a href="https://github.com/docsifyjs/docsify">docsifyjs/docsify</a></td><td align="right">31.6k</td><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25k</td><td><a href="https://github.com/The-PR-Agent/pr-agent">The-PR-Agent/pr-agent</a></td><td align="right">15.5k</td></tr>
+  <tr><td><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></td><td align="right">81.2k</td><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">81.1k</td><td><a href="https://github.com/moeru-ai/airi">moeru-ai/airi</a></td><td align="right">51.2k</td></tr>
+  <tr><td><a href="https://github.com/maboloshi/github-chinese">maboloshi/github-chinese</a></td><td align="right">38k</td><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.8k</td><td><a href="https://github.com/docsifyjs/docsify">docsifyjs/docsify</a></td><td align="right">31.6k</td></tr>
+  <tr><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25k</td><td><a href="https://github.com/milind-soni/OpenMausBot">milind-soni/OpenMausBot</a></td><td align="right">18k</td><td><a href="https://github.com/The-PR-Agent/pr-agent">The-PR-Agent/pr-agent</a></td><td align="right">15.6k</td></tr>
   <tr><td><a href="https://github.com/plantuml/plantuml">plantuml/plantuml</a></td><td align="right">13.4k</td><td><a href="https://github.com/fishjar/kiss-translator">fishjar/kiss-translator</a></td><td align="right">13.2k</td><td><a href="https://github.com/kornia/kornia">kornia/kornia</a></td><td align="right">12.4k</td></tr>
   <tr><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.3k</td><td><a href="https://github.com/windingwind/zotero-pdf-translate">windingwind/zotero-pdf-translate</a></td><td align="right">12.2k</td><td><a href="https://github.com/bluewave-labs/Checkmate">bluewave-labs/Checkmate</a></td><td align="right">11k</td></tr>
   <tr><td><a href="https://github.com/Laravel-Lang/lang">Laravel-Lang/lang</a></td><td align="right">7.8k</td><td><a href="https://github.com/supercollider/supercollider">supercollider/supercollider</a></td><td align="right">6.8k</td><td><a href="https://github.com/WeblateOrg/weblate">WeblateOrg/weblate</a></td><td align="right">6.2k</td></tr>
