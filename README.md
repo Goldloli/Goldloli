@@ -64,14 +64,14 @@
 <summary>📊 全部已合并仓库 · All merged repos</summary>
 
 <!-- contributions:start -->
-**75** 个已合并 PR · **64** 个上游项目 · 合计 **1102.1k** stars
+**76** 个已合并 PR · **64** 个上游项目 · 合计 **1102.7k** stars
 
 <table>
   <tr><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th><th align="left">项目</th><th align="right">Stars</th></tr>
-  <tr><td><a href="https://github.com/EbookFoundation/free-programming-books">EbookFoundation/free-programming-books</a></td><td align="right">401.7k</td><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">83.2k</td><td><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></td><td align="right">81.9k</td></tr>
+  <tr><td><a href="https://github.com/EbookFoundation/free-programming-books">EbookFoundation/free-programming-books</a></td><td align="right">401.8k</td><td><a href="https://github.com/career-ops-hq/career-ops">career-ops-hq/career-ops</a></td><td align="right">83.3k</td><td><a href="https://github.com/ruvnet/ruflo">ruvnet/ruflo</a></td><td align="right">82k</td></tr>
   <tr><td><a href="https://github.com/moeru-ai/airi">moeru-ai/airi</a></td><td align="right">51.5k</td><td><a href="https://github.com/HeyPuter/puter">HeyPuter/puter</a></td><td align="right">44.2k</td><td><a href="https://github.com/maboloshi/github-chinese">maboloshi/github-chinese</a></td><td align="right">38.7k</td></tr>
   <tr><td><a href="https://github.com/doocs/leetcode">doocs/leetcode</a></td><td align="right">36.8k</td><td><a href="https://github.com/alibaba/nacos">alibaba/nacos</a></td><td align="right">33.5k</td><td><a href="https://github.com/docsifyjs/docsify">docsifyjs/docsify</a></td><td align="right">31.6k</td></tr>
-  <tr><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25.1k</td><td><a href="https://github.com/milind-soni/OpenMausBot">milind-soni/OpenMausBot</a></td><td align="right">24.5k</td><td><a href="https://github.com/The-PR-Agent/pr-agent">The-PR-Agent/pr-agent</a></td><td align="right">16.3k</td></tr>
+  <tr><td><a href="https://github.com/nextai-translator/nextai-translator">nextai-translator/nextai-translator</a></td><td align="right">25.1k</td><td><a href="https://github.com/milind-soni/OpenMausBot">milind-soni/OpenMausBot</a></td><td align="right">24.7k</td><td><a href="https://github.com/The-PR-Agent/pr-agent">The-PR-Agent/pr-agent</a></td><td align="right">16.3k</td></tr>
   <tr><td><a href="https://github.com/plantuml/plantuml">plantuml/plantuml</a></td><td align="right">13.4k</td><td><a href="https://github.com/fishjar/kiss-translator">fishjar/kiss-translator</a></td><td align="right">13.4k</td><td><a href="https://github.com/kornia/kornia">kornia/kornia</a></td><td align="right">12.4k</td></tr>
   <tr><td><a href="https://github.com/jason5ng32/MyIP">jason5ng32/MyIP</a></td><td align="right">12.4k</td><td><a href="https://github.com/windingwind/zotero-pdf-translate">windingwind/zotero-pdf-translate</a></td><td align="right">12.3k</td><td><a href="https://github.com/bluewave-labs/Checkmate">bluewave-labs/Checkmate</a></td><td align="right">11.1k</td></tr>
   <tr><td><a href="https://github.com/py-pdf/pypdf">py-pdf/pypdf</a></td><td align="right">10.3k</td><td><a href="https://github.com/kubernetes-sigs/kubebuilder">kubernetes-sigs/kubebuilder</a></td><td align="right">9.4k</td><td><a href="https://github.com/Laravel-Lang/lang">Laravel-Lang/lang</a></td><td align="right">7.8k</td></tr>
